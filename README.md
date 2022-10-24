@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Fadil Mohammed (Fadil1212@github.com)
+Bealu Girma (bealu14@github.com)
 ## License
 Public Domain. No copy write protection. 
